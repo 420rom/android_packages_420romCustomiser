@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.lineageos.tvcustomizer;
+package com.420rom.tvcustomiser;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

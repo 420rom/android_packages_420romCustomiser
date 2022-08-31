@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.lineageos.tvcustomizer;
+package com.420rom.tvcustomiser;
 
 import android.content.ContentProvider;
 import android.content.ContentProvider.PipeDataWriter;

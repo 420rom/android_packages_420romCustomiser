@@ -12,7 +12,7 @@
         <app name="Youtube" package_name="com.google.android.youtube.tv"/>
         <app name="SmartTube" package_name="com.teamsmart.videomanager.tv"/>
         <app name="STN Beta" package_name="com.liskovsoft.smarttubetv.beta"/>
-        <app name="Google Movies" package_name="com.google.android.videos"/>
+        <app name="Google TV" package_name="com.google.android.videos"/>
     </partner-favorite-apps-out-of-box-order>
 
     <!-- OEMs can customize the initial order of apps in the apps row of the Apps
@@ -25,7 +25,7 @@
         <app name="Youtube" package_name="com.google.android.youtube.tv"/>
         <app name="SmartTube" package_name="com.teamsmart.videomanager.tv"/>
         <app name="STN Beta" package_name="com.liskovsoft.smarttubetv.beta"/>
-        <app name="Google Movies" package_name="com.google.android.videos"/>
+        <app name="Google TV" package_name="com.google.android.videos"/>
         <app name="YouTube Music" package_name="com.google.android.youtube.tvmusic"/>
         <app name="Google PlayStore" package_name="com.android.vending"/>
     </partner-all-apps-out-of-box-order>
